@@ -1,2 +1,1 @@
-# hello-world
-just  another repository
+this file is written by lanbo,who is grauateing form zhejiang university of technology
